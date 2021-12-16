@@ -1,2 +1,2 @@
-add_subdirectory(api)
-add_subdirectory(instances)
+zephyr_include_directories(api)
+zephyr_include_directories(instances)
