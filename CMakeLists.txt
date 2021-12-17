@@ -1,1 +1,1 @@
-add_subdirectory_ifdef(CONFIG_SOC_SERIES_RA ra)
+add_subdirectory_ifdef(CONFIG_SOC_FAMILY_RA ra)
