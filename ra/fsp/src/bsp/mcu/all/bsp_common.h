@@ -33,7 +33,7 @@
 #include <string.h>
 
 /* Different compiler support. */
-#include "../../inc/fsp_common_api.h"
+#include "fsp_common_api.h"
 #include "bsp_compiler_support.h"
 #include "bsp_cfg.h"
 
